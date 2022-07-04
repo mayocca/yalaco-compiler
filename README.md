@@ -1,7 +1,6 @@
 # YALACO Compiler
 
-_**Y**et **A**nother **LA**nguage for **C**omputing **O**perations_ is a weakly-typed language.
-It includes variable assignations, conditional sentences and loops.
+_**Y**et **A**nother **LA**nguage for **C**ommon **O**perations_ is a dynamically typed language.
 
 _This is a simple language that was made for an essay._
 
